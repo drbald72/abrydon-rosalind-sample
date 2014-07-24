@@ -1,4 +1,4 @@
-# Andrew Brydon's Sample Rosalind Code 
+### Andrew Brydon's Sample Rosalind Code 
 
 This is a small sampling of solutions generated for [project rosalind](http://rosalind.info) using java 8. As well as refreshing some of my bioinformatics skills, it was an opportunity to try out at least some new java 8 features. 
 
